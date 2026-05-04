@@ -1,1 +1,1 @@
-vhna-robotics.github.io/VHNA
+https://vhna-robotics.github.io/VHNA
